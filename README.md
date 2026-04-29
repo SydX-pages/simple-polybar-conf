@@ -19,3 +19,7 @@
 ```sh
 ~/.config/polybar/launch.sh
 ```
+
+## My dotfiles
+
+[dotfiles](https://github.com/SydX-pages/dotfiles)
